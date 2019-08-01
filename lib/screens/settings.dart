@@ -211,6 +211,6 @@ class _SettingsPageState extends State<SettingsPage> {
   }
 
   void openGitHub() {
-    launch('https://www.github.com/roshanrahman');
+    launch('https://www.github.com/flutter');
   }
 }
