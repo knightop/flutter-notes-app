@@ -109,7 +109,7 @@ class _SettingsPageState extends State<SettingsPage> {
                       child: Padding(
                     padding: const EdgeInsets.only(top: 8.0, bottom: 4.0),
                     child: Text(
-                      'Roshan',
+                      'Rajdeep',
                       style: TextStyle(fontFamily: 'ZillaSlab', fontSize: 24),
                     ),
                   )),
